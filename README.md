@@ -2,7 +2,6 @@
 
 <p align="center">
 NLW é programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-
 </p>
 
 <p align="center">
